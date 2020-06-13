@@ -1,0 +1,40 @@
+<!DOCTYPE html>
+<html>
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<link rel="stylesheet" href="css/mystyle.css">
+<title>Responsive Layout</title>
+
+
+
+</head>
+<body>
+<h1>Our Menu</h1>
+
+<div class="row">
+    <div class="col-lg-4 col-md-6 col-sm-12">
+        <div class = container> 
+            <p class='box_title' id="Chicken">Chicken</p>
+            <p class='text_area'>Lorem ipsum dolor sit amet consectetur adipisicing elit. Consequuntur officiis nam, assumenda blanditiis adipisci quas inventore rem, ab nesciunt praesentium labore sunt nulla voluptatum repellat exercitationem voluptate? Maxime, nulla accusantium?</p>
+        </div>
+    </div>
+    
+    <div class="col-lg-4 col-md-6 col-sm-12">
+        <div class = container> 
+            <p class='box_title' id="Beef">Beef</p>
+            <p class='text_area'>Lorem ipsum dolor sit amet consectetur adipisicing elit. Consequuntur officiis nam, assumenda blanditiis adipisci quas inventore rem, ab nesciunt praesentium labore sunt nulla voluptatum repellat exercitationem voluptate? Maxime, nulla accusantium?</p>
+        </div>
+    </div>
+    
+    <div class="col-lg-4 col-md-12 col-sm-12">
+        <div class = container> 
+            <p class='box_title' id="Sushi">Sushi</p>
+            <p class='text_area'>Lorem ipsum dolor sit amet consectetur adipisicing elit. Consequuntur officiis nam, assumenda blanditiis adipisci quas inventore rem, ab nesciunt praesentium labore sunt nulla voluptatum repellat exercitationem voluptate? Maxime, nulla accusantium?</p>
+        </div>
+    </div>
+    
+</div>
+
+</body>
+</html>
